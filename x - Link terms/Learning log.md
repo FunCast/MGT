@@ -1,0 +1,1 @@
+[MGT - 2026 - Learning Log - Shera van Hoven.pptx](https://edubuas.sharepoint.com/:p:/t/2026-27MGT2/IQCyxub70T-pRZKYW54DtIBnAYz2Pgx3HxWwV6ON3zlBAKA?e=r1Lfgd)

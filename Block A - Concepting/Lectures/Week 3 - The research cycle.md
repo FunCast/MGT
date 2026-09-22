@@ -1,4 +1,4 @@
-#lecture
+#lecture [[Block A]]
 The topic has to be new to everyone in the industry, not just you.
 If it's known but not documented it's okay on a technicality, but try to contact people who do already know for their information.
 If a paper is being posted on your topic in/before block B see if you can pivot to build upon their paper and get further than you could've come on your own.
@@ -22,7 +22,7 @@ The [[Literature review]] is about comparison and contrast, back up your stateme
 
 Everything you write should be backed by data or sources. Always ask yourself "says who?"
 
-Show some convidence, use verbs to show this. States, suggests, argues, demonstrates, claims, assumes. If you're using negative terms that throw shade you really have to back up the reason right after in the next sentence.
+Show some confidence, use verbs to show this. States, suggests, argues, demonstrates, claims, assumes. If you're using negative terms that throw shade you really have to back up the reason right after in the next sentence.
 
 Only add the citation before the sentence if the person's citation matters more than what the citation is. This might be the case if this person's vital to your research and is commonly re-occurring
 

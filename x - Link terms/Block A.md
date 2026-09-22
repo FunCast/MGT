@@ -1,0 +1,7 @@
+[[Week 1 - Introductory information]]
+[[Week 2 - Tips]]
+[[Week 3 - The research cycle]]
+[[Week 4 -]]
+[[Week 5 -]]
+[[Week 6 -]]
+[[Week 7 -]]
