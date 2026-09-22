@@ -1,0 +1,2 @@
+[DOC: Differentiable Optimal Control for Retargeting Motions onto Legged Robots](https://research.ebsco.com/plink/703b5b8b-86db-3617-a461-ed0ef4df2249)
+#Ruben_Grandia #Rarbod_Farshidian #Espen_Knoop #Christian_Schumacher #Marco_Hutter #Moritz_Bacher #Year2023 #Disney #Zurich #Switzerland #retargeting #control #dynamic-programming #model-productive

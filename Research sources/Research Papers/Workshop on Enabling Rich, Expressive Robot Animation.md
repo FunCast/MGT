@@ -1,0 +1,2 @@
+[Workshop on Enabling Rich, Expressive Robot Animation](https://research.ebsco.com/plink/0382f847-64b2-31d7-a4d1-1046030649e7)
+#Elizabeth_Jochum #David_Nunez #Aalborg #Cambridge #animation #dance #motion #robots #music #Year2015
