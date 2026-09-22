@@ -1,0 +1,5 @@
+- Replacing human front desk employees with robots.
+- Removing character actors with animatronics.
+- Power usage to run theme park animatronics.
+- Removing frame by frame animation jobs by speeding up the process and replacing it with motion capture.
+- Making robots as human-like as possible could eventually lead to confusion as to whether people are talking to a human or a robot, if no content warnings are included.

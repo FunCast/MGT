@@ -1,0 +1,2 @@
+During my moment of doubt as to whether to switch topics I was trying to find how to go about this and why the other topic might be fun. For this I sparred with Claude about the topics I like to talk about, the specifics of the thesis guidelines, and my current skills. 
+After some sparring and looking into media shared by Claude I found my passion for the topic, breaking me past this mental block.

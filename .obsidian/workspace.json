@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course information/Week 1 - Introductory information.md",
+                "file": "Block A - Concepting/Ethics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 1 - Introductory information"
+              "title": "Ethics"
             }
           }
         ]
@@ -57,6 +57,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "Block A - Concepting/Ethics.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -147,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Block A - Concepting/Ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -215,13 +217,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "a7672cf690e06f6d",
+  "active": "87fbf8e024758833",
   "lastOpenFiles": [
-    "Course information/Week 1 - Introductory information.md",
-    "Block A - Concepting/Lectures/Week 2 - Tips.md",
+    "Block A - Concepting/AI use.md",
+    "Block A - Concepting/Ethics.md",
     "Block A - Concepting/Research sources.md",
-    "x - Link terms/Supervisors.md",
+    "Block A - Concepting/ILO.md",
+    "Block A - Concepting/Research question.md",
+    "Untitled.base",
+    "Course information/Week 1 - Introductory information.md",
     "Block A - Concepting/Lectures/Week 3 - The research cycle.md",
+    "Block A - Concepting/Lectures/Week 2 - Tips.md",
+    "x - Link terms/Supervisors.md",
     "Block A - Concepting/The 5WH.md",
     "Research sources/Research Papers/Data-driven emotional body language generation for social robotics.md",
     "Research sources/Research Papers/Details for Walk the dinosaur, creating believable creature game locomotion animation through motion capture.md",
@@ -239,10 +246,6 @@
     "x - Link terms/Thesis.md",
     "x - Link terms/Grammarly.md",
     "x - Link terms/ILO.md",
-    "x - Link terms/Block C.md",
-    "x - Link terms/MGT.md",
-    "x - Link terms/AI.md",
-    "x - Link terms/Methodology.md",
     "x - Link terms",
     "Untitled.canvas",
     "Research sources/YouTube",
@@ -252,7 +255,6 @@
     "Research sources/Research Papers",
     "Course information",
     "Deliverables",
-    "Block D - Release",
-    "Block C - Production"
+    "Block D - Release"
   ]
 }

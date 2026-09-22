@@ -51,7 +51,7 @@ Be here, work in the classroom as much as possible.
 
 The template is in our student folders in teams. It has to stay in that live environment as you write.
 
-Your in between [[ILO]] (1,2,3) grades are just an estimation, and will not be locked in as an actual grade.
-[[ILO]] 4,5,6 are final. 
+Your in between [[x - Link terms/ILO]] (1,2,3) grades are just an estimation, and will not be locked in as an actual grade.
+[[x - Link terms/ILO]] 4,5,6 are final. 
 
-Note down [[Ethics]], this includes the fact motion capture workflows take away from jobs of complex frame by frame animation.
+Note down [[x - Link terms/Ethics]], this includes the fact motion capture workflows take away from jobs of complex frame by frame animation.
