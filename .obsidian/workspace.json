@@ -16,7 +16,17 @@
               "state": {
                 "file": "Block A - Concepting/Ethics.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Ethics"
@@ -32,7 +42,7 @@
           {
             "id": "5722197acccc536e",
             "type": "tabs",
-            "dimension": 78.73563218390804,
+            "dimension": 78.73563218390805,
             "children": [
               {
                 "id": "a7672cf690e06f6d",
@@ -49,7 +59,7 @@
           {
             "id": "130942f9d8470ee5",
             "type": "tabs",
-            "dimension": 21.26436781609195,
+            "dimension": 21.264367816091955,
             "children": [
               {
                 "id": "c8c3ae408f59af78",
@@ -219,11 +229,11 @@
   },
   "active": "87fbf8e024758833",
   "lastOpenFiles": [
-    "Block A - Concepting/AI use.md",
+    "Block A - Concepting/Research question.md",
     "Block A - Concepting/Ethics.md",
+    "Block A - Concepting/AI use.md",
     "Block A - Concepting/Research sources.md",
     "Block A - Concepting/ILO.md",
-    "Block A - Concepting/Research question.md",
     "Untitled.base",
     "Course information/Week 1 - Introductory information.md",
     "Block A - Concepting/Lectures/Week 3 - The research cycle.md",
