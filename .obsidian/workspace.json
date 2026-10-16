@@ -202,9 +202,33 @@
               "icon": "lucide-file",
               "title": "Literature review"
             }
+          },
+          {
+            "id": "8cbafe8ce73dfdc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Block A - Concepting/Literature review.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Literature review"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -363,12 +387,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "zotero-sync-client:Sync with Zotero": false
+      "zotero-sync-client:Sync with Zotero": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cc05870824cece6",
+  "active": "8cbafe8ce73dfdc8",
   "lastOpenFiles": [
     "Block A - Concepting/Lit review sprint plan of approach.md",
+    "Tags and links.base",
     "Block A - Concepting/Lectures/Week 7 - Presentation Skills.md",
     "Block A - Concepting/Lectures/Week 3 - The research cycle.md",
     "Block A - Concepting/Lectures/Week 2 - Tips.md",
@@ -387,7 +413,6 @@
     "Zotero.md",
     "Zotero",
     "References",
-    "Untitled.base",
     "Course information/Week 1 - Introductory information.md",
     "Block A - Concepting/ILO.md",
     "Link terms/Pasted image 20261001151159.png",
@@ -398,7 +423,6 @@
     "x - Link terms/Thesis.md",
     "x - Link terms/Supervisors.md",
     "x - Link terms/MGT.md",
-    "x - Link terms/Methodology.md",
     "x - Link terms",
     "Research sources/YouTube",
     "Research sources/GDC Vault",
