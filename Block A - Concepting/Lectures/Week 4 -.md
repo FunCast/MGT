@@ -1,1 +1,0 @@
-#lecture [[Block A]]

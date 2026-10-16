@@ -6,7 +6,7 @@ Pass
  - [ ] Valuable
  - [ ] Address relevant gap or opportunity
  - [ ] Attainable
- - [ ] lLad to valuable contributions in the field
+ - [ ] Lead to valuable contributions in the field
  - [x] Aware of ethical context
 Cum Laude
  - [x] Sources/materials from other fields/industries

@@ -6,15 +6,42 @@
       {
         "id": "3caaf1a4ec57fdd7",
         "type": "tabs",
-        "dimension": 64.47876447876448,
         "children": [
+          {
+            "id": "ce4a5338ca12e62c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Block A - Concepting/Lectures/Week 3 - The research cycle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 3 - The research cycle"
+            }
+          },
+          {
+            "id": "b1055d21497f1d5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Block A - Concepting/Research sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Research sources"
+            }
+          },
           {
             "id": "87fbf8e024758833",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Block A - Concepting/Ethics.md",
+                "file": "Block A - Concepting/Research question.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,61 +56,155 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ethics"
+              "title": "Research question"
             }
-          }
-        ]
-      },
-      {
-        "id": "4b547bf09a99ec6a",
-        "type": "split",
-        "dimension": 35.52123552123552,
-        "children": [
-          {
-            "id": "5722197acccc536e",
-            "type": "tabs",
-            "dimension": 78.73563218390805,
-            "children": [
-              {
-                "id": "a7672cf690e06f6d",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
           },
           {
-            "id": "130942f9d8470ee5",
-            "type": "tabs",
-            "dimension": 21.264367816091955,
-            "children": [
-              {
-                "id": "c8c3ae408f59af78",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Block A - Concepting/Ethics.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks"
+            "id": "53ff2cb06c5abce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture - Notetaking for Obsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
-              }
-            ]
+              },
+              "icon": "lucide-file",
+              "title": "Lecture - Notetaking for Obsidian"
+            }
+          },
+          {
+            "id": "822f9e4a2e4c5824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Block A - Concepting/Lectures/Week 5 - Qualitive and Quantitive Research.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Week 5 - Qualitive and Quantitive Research"
+            }
+          },
+          {
+            "id": "33a7f8882f848fa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture - Notetaking for Obsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lecture - Notetaking for Obsidian"
+            }
+          },
+          {
+            "id": "8ff7fabef1144481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture - Notetaking for Obsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lecture - Notetaking for Obsidian"
+            }
+          },
+          {
+            "id": "6484c5eec7d61a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zotero/DetailsWalkDinosaur.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DetailsWalkDinosaur"
+            }
+          },
+          {
+            "id": "2cc05870824cece6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Block A - Concepting/Literature review.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Literature review"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -142,7 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.5
   },
   "right": {
     "id": "73411e0a6871b246",
@@ -153,12 +274,29 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c8c3ae408f59af78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
             "id": "2c936a6c831640b7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Block A - Concepting/Ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -213,7 +351,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -224,47 +362,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "zotero-sync-client:Sync with Zotero": false
     }
   },
-  "active": "87fbf8e024758833",
+  "active": "2cc05870824cece6",
   "lastOpenFiles": [
-    "Block A - Concepting/Research question.md",
-    "Block A - Concepting/Ethics.md",
-    "Block A - Concepting/AI use.md",
-    "Block A - Concepting/Research sources.md",
-    "Block A - Concepting/ILO.md",
-    "Untitled.base",
-    "Course information/Week 1 - Introductory information.md",
+    "Block A - Concepting/Lit review sprint plan of approach.md",
+    "Block A - Concepting/Lectures/Week 7 - Presentation Skills.md",
     "Block A - Concepting/Lectures/Week 3 - The research cycle.md",
     "Block A - Concepting/Lectures/Week 2 - Tips.md",
-    "x - Link terms/Supervisors.md",
-    "Block A - Concepting/The 5WH.md",
-    "Research sources/Research Papers/Data-driven emotional body language generation for social robotics.md",
-    "Research sources/Research Papers/Details for Walk the dinosaur, creating believable creature game locomotion animation through motion capture.md",
-    "Research sources/Research Papers/Differentiable Optimal Control for Retargeting Motions onto Legged Robots.md",
-    "Research sources/Research Papers/Humanoid Robots for Entertainment.md",
-    "Research sources/Research Papers/Workshop on Enabling Rich, Expressive Robot Animation.md",
+    "Block A - Concepting/Research question.md",
     "Block A - Concepting/Literature review.md",
-    "x - Link terms/Carlos Santos.md",
-    "x - Link terms/Marlon Nowe.md",
-    "Block A - Concepting/Lectures/Week 7 -.md",
+    "Zotero/DetailsWalkDinosaur.md",
+    "Lecture - Notetaking for Obsidian.md",
+    "Block A - Concepting/Lectures/Week 5 - Qualitive and Quantitive Research.md",
+    "Qualitive.md",
+    "qualitive.md",
+    "Block A - Concepting/The 5WH.md",
+    "Note.md",
+    "Zotero/DOCDifferentiableOptimal.md",
+    "Zotero/jochumWorkshopEnablingRich2015.md",
+    "References/Jochum+Nuñez2015.md",
+    "Zotero.md",
+    "Zotero",
+    "References",
+    "Untitled.base",
+    "Course information/Week 1 - Introductory information.md",
+    "Block A - Concepting/ILO.md",
+    "Link terms/Pasted image 20261001151159.png",
+    "Link terms",
     "Block A - Concepting/Lectures/Week 6 -.md",
-    "Block A - Concepting/Lectures/Week 5 -.md",
-    "Block A - Concepting/Lectures/Week 4 -.md",
-    "x - Link terms/Ethics.md",
+    "Block A - Concepting/Lectures/Week 4 - Designing & Planning Accessible Research.md",
+    "Research sources/Research Papers/Differentiable Optimal Control for Retargeting Motions onto Legged Robots.md",
     "x - Link terms/Thesis.md",
-    "x - Link terms/Grammarly.md",
-    "x - Link terms/ILO.md",
+    "x - Link terms/Supervisors.md",
+    "x - Link terms/MGT.md",
+    "x - Link terms/Methodology.md",
     "x - Link terms",
-    "Untitled.canvas",
     "Research sources/YouTube",
     "Research sources/GDC Vault",
     "Research sources",
     "Block A - Concepting/Lectures",
-    "Research sources/Research Papers",
-    "Course information",
-    "Deliverables",
-    "Block D - Release"
+    "Research sources/Research Papers"
   ]
 }
