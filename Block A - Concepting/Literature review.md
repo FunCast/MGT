@@ -13,7 +13,7 @@ Uncanny valley in robots
 Static animations
 What makes animation believable
 Character design stepping away from uncanny
-Realism vs. stylised
+Realism vs. stylized
 Animation principles
 Current state of robot animation and line of progress made
 ## Red thread
