@@ -1,5 +1,6 @@
 [
   "zotero-sync-client",
   "obsidian-zotero-desktop-connector",
-  "obsidian-git"
+  "obsidian-git",
+  "claude-vault-assistant"
 ]
