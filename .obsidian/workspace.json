@@ -175,16 +175,6 @@
             }
           },
           {
-            "id": "83f2a1dcef33b476",
-            "type": "leaf",
-            "state": {
-              "type": "claude-vault-chat",
-              "state": {},
-              "icon": "message-square",
-              "title": "Claude chat"
-            }
-          },
-          {
             "id": "56c32da02a4b07f8",
             "type": "leaf",
             "state": {
@@ -211,19 +201,24 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "zotero-sync-client:Sync with Zotero": false,
-      "obsidian-git:Open Git source control": false,
-      "claude-vault-assistant:Run Claude prompt": false,
-      "claude-vault-assistant:Open Claude chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83f2a1dcef33b476",
+  "active": "8cbafe8ce73dfdc8",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Block A - Concepting/Literature review.md",
+    "2026-10-18.md",
+    "Block A - Concepting/Lit review sprint plan of approach.md",
+    "PROMPT-refine-note.md",
+    "PROMPT-summarize.md",
+    "CLAUDE.md",
+    "Block A - Concepting/ILO.md",
+    "Note.md",
+    "Tags and links.base",
     "Zotero/DetailsWalkDinosaur.md",
     "Lecture - Notetaking for Obsidian.md",
     "Block A - Concepting/Lectures/Week 5 - Qualitive and Quantitive Research.md",
-    "Block A - Concepting/Literature review.md",
-    "Block A - Concepting/Lit review sprint plan of approach.md",
-    "Tags and links.base",
     "Block A - Concepting/Lectures/Week 7 - Presentation Skills.md",
     "Block A - Concepting/Lectures/Week 3 - The research cycle.md",
     "Block A - Concepting/Lectures/Week 2 - Tips.md",
@@ -231,7 +226,6 @@
     "Qualitive.md",
     "qualitive.md",
     "Block A - Concepting/The 5WH.md",
-    "Note.md",
     "Zotero/DOCDifferentiableOptimal.md",
     "Zotero/jochumWorkshopEnablingRich2015.md",
     "References/Jochum+Nuñez2015.md",
@@ -239,20 +233,14 @@
     "Zotero",
     "References",
     "Course information/Week 1 - Introductory information.md",
-    "Block A - Concepting/ILO.md",
     "Link terms/Pasted image 20261001151159.png",
     "Link terms",
     "Block A - Concepting/Lectures/Week 6 -.md",
     "Block A - Concepting/Lectures/Week 4 - Designing & Planning Accessible Research.md",
-    "Research sources/Research Papers/Differentiable Optimal Control for Retargeting Motions onto Legged Robots.md",
-    "x - Link terms/Thesis.md",
-    "x - Link terms/Supervisors.md",
-    "x - Link terms/MGT.md",
     "x - Link terms",
     "Research sources/YouTube",
     "Research sources/GDC Vault",
     "Research sources",
-    "Block A - Concepting/Lectures",
-    "Research sources/Research Papers"
+    "Block A - Concepting/Lectures"
   ]
 }
