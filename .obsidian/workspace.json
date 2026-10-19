@@ -6,9 +6,10 @@
       {
         "id": "3caaf1a4ec57fdd7",
         "type": "tabs",
+        "dimension": 60.50135501355014,
         "children": [
           {
-            "id": "8cbafe8ce73dfdc8",
+            "id": "051a9c01a00dc6f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +30,23 @@
               },
               "icon": "lucide-file",
               "title": "Literature review"
+            }
+          }
+        ]
+      },
+      {
+        "id": "334b472f6cc9b2bf",
+        "type": "tabs",
+        "dimension": 39.49864498644987,
+        "children": [
+          {
+            "id": "8cbafe8ce73dfdc8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -194,19 +212,29 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "zotero-sync-client:Sync with Zotero": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "8cbafe8ce73dfdc8",
+  "active": "051a9c01a00dc6f7",
   "lastOpenFiles": [
-    "Untitled.base",
+    "VibSupPaper_2.pdf",
+    "Trajectory-based-Probabilistic-Policy-Gradient-for-Learning-Locomotion-Behaviors_ICRA2019_DLPG.pdf",
+    "Trajectory-based-Probabilistic-Policy-Gradient-for-Learning-Locomotion-Behaviors_ICRA2019_DLPG.pdf.crdownload",
+    "Toward-Torque-Control-of-a-KUKA-LBR-IIWA-for-Physical-Human-Robot-Interaction-Paper.pdf",
+    "Toward-Torque-Control-of-a-KUKA-LBR-IIWA-for-Physical-Human-Robot-Interaction-Paper.pdf.crdownload",
+    "Computational-Co-Optimization-of-Design-Parameters-and-Motion-Trajectories-for-Robotic-Systems-Paper.pdf",
+    "Computational-Co-Optimization-of-Design-Parameters-and-Motion-Trajectories-for-Robotic-Systems-Paper.pdf.crdownload",
+    "mura_IJRR.pdf",
+    "mura_IJRR.pdf.crdownload",
+    "root_8.pdf",
+    "root_8.pdf.crdownload",
     "Block A - Concepting/Literature review.md",
     "2026-10-18.md",
     "Block A - Concepting/Lit review sprint plan of approach.md",
@@ -215,7 +243,6 @@
     "CLAUDE.md",
     "Block A - Concepting/ILO.md",
     "Note.md",
-    "Tags and links.base",
     "Zotero/DetailsWalkDinosaur.md",
     "Lecture - Notetaking for Obsidian.md",
     "Block A - Concepting/Lectures/Week 5 - Qualitive and Quantitive Research.md",
@@ -230,17 +257,9 @@
     "Zotero/jochumWorkshopEnablingRich2015.md",
     "References/Jochum+Nuñez2015.md",
     "Zotero.md",
-    "Zotero",
-    "References",
     "Course information/Week 1 - Introductory information.md",
     "Link terms/Pasted image 20261001151159.png",
-    "Link terms",
     "Block A - Concepting/Lectures/Week 6 -.md",
-    "Block A - Concepting/Lectures/Week 4 - Designing & Planning Accessible Research.md",
-    "x - Link terms",
-    "Research sources/YouTube",
-    "Research sources/GDC Vault",
-    "Research sources",
-    "Block A - Concepting/Lectures"
+    "Block A - Concepting/Lectures/Week 4 - Designing & Planning Accessible Research.md"
   ]
 }
