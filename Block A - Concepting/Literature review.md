@@ -51,15 +51,25 @@ In media there are many non-human characters that theme parks might want to repr
 | Side A | Side B |
 | ------ | ------ |
 |        |        |
+#### Human - robot interaction
+##### Opening statement
+
+##### Closing statement
+
+
+| Side A                                                                                                                                                                                                                                                                                                        | Side B                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| In social robotics, endowing humanoid robots with the ability to generate bodily expressions of affect can improve human-robot interaction and collaboration, since humans attribute, and perhaps subconsciously anticipate, such traces to perceive an agent as engaging, trustworthy, and socially present. | DATA-DRIVEN EMOTIONAL BODY LANGUAGE GENERATION  FOR SOCIAL ROBOTICS            |
+| He knew that the more immersive the story experience, the stronger the emotional connection would likely be with the audience.                                                                                                                                                                                | Humanoid Robots for Entertainment  Steven “Mouse” Silverstein and Katsu Yamane |
 ### Social and entertainment industry uses
 ##### Opening statement
 These non-human creatures can roam around theme parts or be adorable little assistants waiting for you at the front desk. Whether intended for informative use or entertainment bringing life to an environment within the theme of the park.
 ##### Closing statement
 I will be focusing more on the entertainment section due to the correlation with the Efteling during this project.
 
-| Side A | Side B |
-| ------ | ------ |
-|        |        |
+| Side A                                                                                                                                                                                                                                                                                          | Side B |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| While fully autonomous, interactive robot would be ideal from guest experience and cost points of view, it would be very difficult to deploy due to robustness and safety. In the meantime, teleoperated robots are perfectly acceptable in theme park settings and have in fact been deployed. |        |
 ### Current state of robot animation and line of progress made
 ##### Opening statement
 The Efteling has some more outdated animatronics by choice to maintain their style. Some other theme parks however showcase modern use of animatronics for their characters, an example of this being Disneyland.
@@ -111,15 +121,15 @@ Disney animators Ollie Johnston and Frank Thomas first introduced the principles
 ##### Closing statement
 These principles are old, but still commonly used and very much loved to this day. Setting a standard in the animation industry for us to keep up.
 
-| Side A | Side B |
-| ------ | ------ |
-|        |        |
+| Side A | Side B                                                                                                                                                                                                                                                                                                              |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|        | Disney’s twelve principles of animation are considered by most to be the commandments of animation. They are a result of more than 60 years of Disney productions, and were compiled into a book called ’The Illusion of Life’, by Thomas and Johnston [29], the last two of Disney’s Nine Old Men2.  For reference |
 ### Robot rig application
 ##### Opening statement
 The robot's rig is unique from the default basic human rig. Though it has a lot of similarities. These animation rules need to be applied to the rig in a way that specifically works for the G1 Unitree in a smooth flow.
 ##### Closing statement
 With trial and error I shall animate the character in collaboration with the simulations created by Jason to perfect the body motions.
 
-| Side A | Side B |
-| ------ | ------ |
-|        |        |
+| Side A                                                                                                                            | Side B                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| For example, robots for interactive shows can be completely teleoperated, requiring less autonomy and therefore easier to deploy. | Humanoid Robots for Entertainment  Steven “Mouse” Silverstein and Katsu Yamane |
