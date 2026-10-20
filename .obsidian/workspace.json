@@ -6,7 +6,6 @@
       {
         "id": "3caaf1a4ec57fdd7",
         "type": "tabs",
-        "dimension": 60.50135501355014,
         "children": [
           {
             "id": "051a9c01a00dc6f7",
@@ -30,23 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Literature review"
-            }
-          }
-        ]
-      },
-      {
-        "id": "334b472f6cc9b2bf",
-        "type": "tabs",
-        "dimension": 39.49864498644987,
-        "children": [
-          {
-            "id": "8cbafe8ce73dfdc8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
