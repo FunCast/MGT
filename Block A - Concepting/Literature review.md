@@ -48,19 +48,19 @@ Not all characters we want to represent in entertainment match the human body an
 ##### Closing statement
 In media there are many non-human characters that theme parks might want to represent, hence the need for robots and animatronics.
 
-| Side A | Side B |
-| ------ | ------ |
-|        |        |
+| Side A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Side B |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| It is important to emphasize the word autonomous, as we don’t consider robot animation to be solely the design of expressive motion for robots that can be faithfully played back (that would fall into the field of animatronics). Instead it is about creating techniques, systems and interfaces that allow animation artists to design, specify and program how the motion will be generated, shaped and composed throughout an interaction, based on the behaviour descriptions that are computed by the AI.  |        |
 #### Human - robot interaction
 ##### Opening statement
 
 ##### Closing statement
 
 
-| Side A                                                                                                                                                                                                                                                                                                        | Side B                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| In social robotics, endowing humanoid robots with the ability to generate bodily expressions of affect can improve human-robot interaction and collaboration, since humans attribute, and perhaps subconsciously anticipate, such traces to perceive an agent as engaging, trustworthy, and socially present. | DATA-DRIVEN EMOTIONAL BODY LANGUAGE GENERATION  FOR SOCIAL ROBOTICS            |
-| He knew that the more immersive the story experience, the stronger the emotional connection would likely be with the audience.                                                                                                                                                                                | Humanoid Robots for Entertainment  Steven “Mouse” Silverstein and Katsu Yamane |
+| Side A                                                                                                                                                                                                                                                                                                           | Side B |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| In social robotics, endowing humanoid robots with the ability to generate bodily expressions of affect can improve human-robot interaction and collaboration, since humans attribute, and perhaps subconsciously anticipate, such traces to perceive an agent as engaging, trustworthy, and socially present. -  |        |
+| He knew that the more immersive the story experience, the stronger the emotional connection would likely be with the audience. - Humanoid Robots for Entertainment                                                                                                                                               |        |
 ### Social and entertainment industry uses
 ##### Opening statement
 These non-human creatures can roam around theme parts or be adorable little assistants waiting for you at the front desk. Whether intended for informative use or entertainment bringing life to an environment within the theme of the park.
@@ -121,15 +121,15 @@ Disney animators Ollie Johnston and Frank Thomas first introduced the principles
 ##### Closing statement
 These principles are old, but still commonly used and very much loved to this day. Setting a standard in the animation industry for us to keep up.
 
-| Side A | Side B                                                                                                                                                                                                                                                                                                              |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|        | Disney’s twelve principles of animation are considered by most to be the commandments of animation. They are a result of more than 60 years of Disney productions, and were compiled into a book called ’The Illusion of Life’, by Thomas and Johnston [29], the last two of Disney’s Nine Old Men2.  For reference |
+| Side A | Side B                                                                                                                                                                                                                                                                                                                                                          |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|        | Disney’s twelve principles of animation are considered by most to be the commandments of animation. They are a result of more than 60 years of Disney productions, and were compiled into a book called ’The Illusion of Life’, by Thomas and Johnston [29], the last two of Disney’s Nine Old Men2.  - NUTTY-BASED ROBOT ANIMATION - PRINCIPLES AND  PRACTICES |
 ### Robot rig application
 ##### Opening statement
 The robot's rig is unique from the default basic human rig. Though it has a lot of similarities. These animation rules need to be applied to the rig in a way that specifically works for the G1 Unitree in a smooth flow.
 ##### Closing statement
 With trial and error I shall animate the character in collaboration with the simulations created by Jason to perfect the body motions.
 
-| Side A                                                                                                                            | Side B                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| For example, robots for interactive shows can be completely teleoperated, requiring less autonomy and therefore easier to deploy. | Humanoid Robots for Entertainment  Steven “Mouse” Silverstein and Katsu Yamane |
+| Side A                                                                                                                                                                 | Side B |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| For example, robots for interactive shows can be completely teleoperated, requiring less autonomy and therefore easier to deploy. - Humanoid Robots for Entertainment  |        |
