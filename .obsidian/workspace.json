@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Literature review"
             }
+          },
+          {
+            "id": "21100d83e1b8e3fe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "051a9c01a00dc6f7",
+  "active": "21100d83e1b8e3fe",
   "lastOpenFiles": [
     "Block A - Concepting/Research question.md",
     "Block A - Concepting/Literature review.md",
