@@ -10,17 +10,6 @@
 $E=Mc^2$ 
 > [!Note] This is a note
 
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-|     |     |     |     |
-|     |     |     |     |
-|     |     |     |     |
-
-|     |     |
-| --- | --- |
-|     |     |
-
 #BlockA
 [[Week 5 - Qualitive and Quantitive Research]]
 [[Note|Alias]]

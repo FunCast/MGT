@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Block A - Concepting/Literature review.md",
+                "file": "Lecture - Notetaking for Obsidian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Literature review"
-            }
-          },
-          {
-            "id": "21100d83e1b8e3fe",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.5"
+              "title": "Lecture - Notetaking for Obsidian"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,29 +204,30 @@
       "graph:Open graph view": false
     }
   },
-  "active": "21100d83e1b8e3fe",
+  "active": "051a9c01a00dc6f7",
   "lastOpenFiles": [
-    "Block A - Concepting/Research question.md",
+    "Zotero/VibSupPaper_2.pdf",
+    "Zotero/Trajectory-based-Probabilistic-Policy-Gradient-for-Learning-Locomotion-Behaviors_ICRA2019_DLPG.pdf",
+    "Untitled.base",
+    "Zotero/Toward-Torque-Control-of-a-KUKA-LBR-IIWA-for-Physical-Human-Robot-Interaction-Paper.pdf",
+    "Tags and links.base",
+    "Zotero/RobotMDM_red.pdf",
+    "Zotero/Olaf-Website-1.pdf",
+    "Zotero/mura_IJRR.pdf",
+    "Note.md",
+    "Zotero/Design-and-Fabrication-of-a-Bipedal-Robot-using-Serial-Parallel-Hybrid-Leg-Mechanism-Paper.pdf",
+    "Lecture - Notetaking for Obsidian.md",
+    "Zotero/A Versatile Inverse Kinematics.pdf",
     "Block A - Concepting/Literature review.md",
-    "VibSupPaper_2.pdf",
-    "Trajectory-based-Probabilistic-Policy-Gradient-for-Learning-Locomotion-Behaviors_ICRA2019_DLPG.pdf",
+    "Block A - Concepting/Research question.md",
     "Trajectory-based-Probabilistic-Policy-Gradient-for-Learning-Locomotion-Behaviors_ICRA2019_DLPG.pdf.crdownload",
-    "Toward-Torque-Control-of-a-KUKA-LBR-IIWA-for-Physical-Human-Robot-Interaction-Paper.pdf",
-    "Toward-Torque-Control-of-a-KUKA-LBR-IIWA-for-Physical-Human-Robot-Interaction-Paper.pdf.crdownload",
-    "Computational-Co-Optimization-of-Design-Parameters-and-Motion-Trajectories-for-Robotic-Systems-Paper.pdf",
-    "Computational-Co-Optimization-of-Design-Parameters-and-Motion-Trajectories-for-Robotic-Systems-Paper.pdf.crdownload",
-    "mura_IJRR.pdf",
-    "mura_IJRR.pdf.crdownload",
-    "root_8.pdf",
     "2026-10-18.md",
     "Block A - Concepting/Lit review sprint plan of approach.md",
     "PROMPT-refine-note.md",
     "PROMPT-summarize.md",
-    "CLAUDE.md",
+    "Zotero/CLAUDE.md",
     "Block A - Concepting/ILO.md",
-    "Note.md",
     "Zotero/DetailsWalkDinosaur.md",
-    "Lecture - Notetaking for Obsidian.md",
     "Block A - Concepting/Lectures/Week 5 - Qualitive and Quantitive Research.md",
     "Block A - Concepting/Lectures/Week 7 - Presentation Skills.md",
     "Block A - Concepting/Lectures/Week 3 - The research cycle.md",
