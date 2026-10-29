@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture - Notetaking for Obsidian.md",
+                "file": "Course information/Week 1 - Introductory information.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lecture - Notetaking for Obsidian"
+              "title": "Week 1 - Introductory information"
             }
           }
         ]
@@ -206,6 +206,7 @@
   },
   "active": "051a9c01a00dc6f7",
   "lastOpenFiles": [
+    "Lecture - Notetaking for Obsidian.md",
     "Zotero/VibSupPaper_2.pdf",
     "Zotero/Trajectory-based-Probabilistic-Policy-Gradient-for-Learning-Locomotion-Behaviors_ICRA2019_DLPG.pdf",
     "Untitled.base",
@@ -216,11 +217,9 @@
     "Zotero/mura_IJRR.pdf",
     "Note.md",
     "Zotero/Design-and-Fabrication-of-a-Bipedal-Robot-using-Serial-Parallel-Hybrid-Leg-Mechanism-Paper.pdf",
-    "Lecture - Notetaking for Obsidian.md",
     "Zotero/A Versatile Inverse Kinematics.pdf",
     "Block A - Concepting/Literature review.md",
     "Block A - Concepting/Research question.md",
-    "Trajectory-based-Probabilistic-Policy-Gradient-for-Learning-Locomotion-Behaviors_ICRA2019_DLPG.pdf.crdownload",
     "2026-10-18.md",
     "Block A - Concepting/Lit review sprint plan of approach.md",
     "PROMPT-refine-note.md",
