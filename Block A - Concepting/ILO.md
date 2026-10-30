@@ -2,10 +2,10 @@
 Pass
  - [ ] Context for non-expert reader
  - [x] International sources
- - [ ] Relevant
- - [ ] Valuable
+ - [x] Relevant
+ - [x] Valuable
  - [ ] Address relevant gap or opportunity
- - [ ] Attainable
+ - [x] Attainable
  - [ ] Lead to valuable contributions in the field
  - [x] Aware of ethical context
 Cum Laude
